@@ -54,7 +54,7 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: pranjalgupta0280@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/pranjalgupta0280](https://www.linkedin.com/in/pranjalgupta0280)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/pranjal-gupta-766898323/)  
 - 🐙 GitHub: [@pranjalgupta0280](https://github.com/pranjalgupta0280)
 
 ---
