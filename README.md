@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pranjal Gupta
 
 🔧 Full Stack Developer | 🌐 Web Dev Club Member | 🚀 Passionate Coder
-
+🚧 Currently working on: StoreVault – a production-ready, professional storage management platform designed for efficiency, scalability, and real-time inventory control.
 - 🖥️ Working with **Node.js**, **Express**, **MongoDB**, **React**, **Tailwind**
 - 🎯 Focused on backend development, API design, and clean architecture
 - 🛠️ Member of **NCS**, contributed to real-world college projects
